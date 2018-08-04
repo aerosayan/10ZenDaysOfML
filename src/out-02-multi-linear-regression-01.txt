@@ -1,0 +1,6 @@
+The Multiple Regression has resulted in...
+xtrain.shape 		:	 (422, 3)
+ytrain.shape 		:	 (422, 1)
+xtest.shape 		:	 (20, 3)
+ytest.shape 		:	 (20, 1)
+beta_hat.shape 		:	 (3, 1)

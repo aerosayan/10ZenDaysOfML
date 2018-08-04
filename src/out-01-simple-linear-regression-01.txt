@@ -1,0 +1,3 @@
+The linear regression has resulted in ...
+m(slope)       :  -0.6745874587458747
+b(y intercept) :  42.71069306930693
